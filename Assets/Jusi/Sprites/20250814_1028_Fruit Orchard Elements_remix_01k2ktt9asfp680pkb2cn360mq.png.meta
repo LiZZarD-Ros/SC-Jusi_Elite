@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 0e4a2226dccf3864fb612f915bad8b84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4179074266993814117
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_0
+  - first:
+      213: -8583703159225797097
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_1
+  - first:
+      213: 5818786131698445078
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_2
+  - first:
+      213: -59706035854027564
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_3
+  - first:
+      213: 1131386629240991254
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_4
+  - first:
+      213: 5380874703621039747
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_5
+  - first:
+      213: -5879669562242667936
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_6
+  - first:
+      213: 8873480720899769442
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_7
+  - first:
+      213: -5428264668156080671
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_8
+  - first:
+      213: 3467656659237167993
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_9
+  - first:
+      213: 5599940062513635299
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_10
+  - first:
+      213: 9037738316394110013
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_11
+  - first:
+      213: -8961074546415614143
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_12
+  - first:
+      213: 1045827131061063486
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_13
+  - first:
+      213: -6854529932425170082
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_14
+  - first:
+      213: 8983231517651313830
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_15
+  - first:
+      213: 4581529370545484582
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_16
+  - first:
+      213: 205378719156683563
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_17
+  - first:
+      213: 6632085321564594138
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_18
+  - first:
+      213: 1347702517071663707
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_19
+  - first:
+      213: -7800869992479952077
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_20
+  - first:
+      213: -8933230925923641553
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_21
+  - first:
+      213: 5868118969913365602
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_22
+  - first:
+      213: -7024500294270796198
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_23
+  - first:
+      213: -432324227415222165
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_24
+  - first:
+      213: -2360660840319835584
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_25
+  - first:
+      213: -2465884293548069732
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_26
+  - first:
+      213: -4046194904721117470
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_27
+  - first:
+      213: -3178442338299454837
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_28
+  - first:
+      213: -5405629966823120516
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_29
+  - first:
+      213: 185260259831400962
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_30
+  - first:
+      213: -3558133675426709924
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_31
+  - first:
+      213: 991650136152839470
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_32
+  - first:
+      213: -7241129536800013917
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_33
+  - first:
+      213: -1614194989327015829
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_34
+  - first:
+      213: -2503772421112554239
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_35
+  - first:
+      213: -7276134805394534639
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_36
+  - first:
+      213: 1103883272260785581
+    second: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1002
+        width: 447
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b959bd98812f006c0800000000000000
+      internalID: -4179074266993814117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1005
+        width: 223
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716b2f0847f80e880800000000000000
+      internalID: -8583703159225797097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_2
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 981
+        width: 273
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bead3582b70c050800000000000000
+      internalID: 5818786131698445078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 720
+        width: 177
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d459fd3da1eb2ff0800000000000000
+      internalID: -59706035854027564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 732
+        width: 201
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e298b152e73bf00800000000000000
+      internalID: 1131386629240991254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 726
+        width: 138
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a73aa805bcaa40800000000000000
+      internalID: 5380874703621039747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 723
+        width: 213
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a69d95fa7376ea0800000000000000
+      internalID: -5879669562242667936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 507
+        width: 189
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2640282b3bfe42b70800000000000000
+      internalID: 8873480720899769442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 447
+        width: 262
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edc0c36b0eeaa4b0800000000000000
+      internalID: -5428264668156080671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 327
+        width: 363
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97369d0fb579f1030800000000000000
+      internalID: 3467656659237167993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 252
+        height: 417
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef9a9d21dbf6bd40800000000000000
+      internalID: 5599940062513635299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 21
+        width: 289
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c9b916d1f7c6d70800000000000000
+      internalID: 9037738316394110013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 42
+        width: 309
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1474a178d2ed3a380800000000000000
+      internalID: -8961074546415614143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 252963180d775ab439cbf832611e5e1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_0: -4179074266993814117
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_1: -8583703159225797097
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_10: 5599940062513635299
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_11: 9037738316394110013
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_12: -8961074546415614143
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_2: 5818786131698445078
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_3: -59706035854027564
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_4: 1131386629240991254
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_5: 5380874703621039747
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_6: -5879669562242667936
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_7: 8873480720899769442
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_8: -5428264668156080671
+      20250814_1028_Fruit Orchard Elements_remix_01k2ktt9asfp680pkb2cn360mq_9: 3467656659237167993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
