@@ -23,6 +23,12 @@ public class Planting : MonoBehaviour
         if (isPlanted) return;
 
         string selectedTree = PlantSelector.SelectedTree;
+
+        // Check if we can actually plant this tree
+        PlantSelector ui = FindObjectOfType<PlantSelector>();
+        if (ui == null) return;
+        if (!ui.CanPlant(selectedTree)) return;
+
         ShowOutline(selectedTree, true);
         isHovering = true;
     }
@@ -32,6 +38,12 @@ public class Planting : MonoBehaviour
         if (isPlanted) return;
 
         string selectedTree = PlantSelector.SelectedTree;
+
+        // Only hide outline if the tree could be planted
+        PlantSelector ui = FindObjectOfType<PlantSelector>();
+        if (ui == null) return;
+        if (!ui.CanPlant(selectedTree)) return;
+
         ShowOutline(selectedTree, false);
         isHovering = false;
     }
@@ -43,12 +55,21 @@ public class Planting : MonoBehaviour
         string selectedTree = PlantSelector.SelectedTree;
         if (string.IsNullOrEmpty(selectedTree)) return;
 
-        // Hide outline and plant the tree
+        // Check if enough trees available
+        PlantSelector ui = FindObjectOfType<PlantSelector>();
+        if (ui == null) return;
+
+        if (!ui.CanPlant(selectedTree)) return;
+
+        // Plant tree
         ShowOutline(selectedTree, false);
         PlantTree(selectedTree);
 
-        isPlanted = true; // prevent re-planting
+        isPlanted = true;
         isHovering = false;
+
+        // Decrease tree count in manager
+        ui.DecreaseTreeCount(selectedTree);
     }
 
     private void ShowOutline(string treeName, bool state)

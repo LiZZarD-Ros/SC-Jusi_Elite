@@ -206,6 +206,54 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &232271777
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 232271778}
+  - component: {fileID: 232271779}
+  m_Layer: 0
+  m_Name: TreeManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &232271778
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 232271777}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2007162212}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &232271779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 232271777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cb8428407a4ea34e92d62d58318721f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mangoTrees: 1
+  orangeTrees: 1
+  palmTrees: 1
+  pineappleTrees: 1
 --- !u!1 &251888731
 GameObject:
   m_ObjectHideFlags: 0
@@ -2416,6 +2464,7 @@ MonoBehaviour:
   mangoButton: {fileID: 2033061454}
   bananaButton: {fileID: 1376221495}
   pineappleButton: {fileID: 1878875656}
+  treeManager: {fileID: 232271779}
 --- !u!1 &1878875655
 GameObject:
   m_ObjectHideFlags: 0
@@ -2629,6 +2678,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1689867979}
+  - {fileID: 232271778}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2033061450
@@ -2962,8 +3012,9 @@ GameObject:
   - component: {fileID: 2102351696}
   - component: {fileID: 2102351695}
   - component: {fileID: 2102351697}
+  - component: {fileID: 2102351698}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Tree Planting
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3054,6 +3105,23 @@ MonoBehaviour:
   m_Spacing: {x: -7.2, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 4
+--- !u!114 &2102351698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2102351693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8108ff76b4b60194c9cb34ffa3aeb755, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  treeManager: {fileID: 232271779}
+  mangoText: {fileID: 2091281089}
+  orangeText: {fileID: 591141404}
+  palmText: {fileID: 858776562}
+  pineappleText: {fileID: 902972158}
 --- !u!1 &2112925531
 GameObject:
   m_ObjectHideFlags: 0
