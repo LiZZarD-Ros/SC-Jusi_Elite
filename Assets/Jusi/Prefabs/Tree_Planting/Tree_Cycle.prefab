@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2468351326525227702
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3649174370335111984}
+  m_Layer: 0
+  m_Name: Spawn 3
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3649174370335111984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2468351326525227702}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.324, y: 0.247, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6587669844070178251}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4280513623262995938
 GameObject:
   m_ObjectHideFlags: 0
@@ -101,6 +132,37 @@ MonoBehaviour:
   mangoOutline: {fileID: 3801168702645183406}
   bananaOutline: {fileID: 3696910893847279911}
   pineappleOutline: {fileID: 45309634349381108}
+--- !u!1 &5065568665920886391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7193460270944706071}
+  m_Layer: 0
+  m_Name: Spawn 2
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7193460270944706071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5065568665920886391}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.038, y: 0.577, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6587669844070178251}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6867094007768075460
 GameObject:
   m_ObjectHideFlags: 0
@@ -135,6 +197,37 @@ Transform:
   - {fileID: 521861163102135147}
   - {fileID: 5387668930246193820}
   m_Father: {fileID: 8915919683681520174}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7878579329953153717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2098412837045869830}
+  m_Layer: 0
+  m_Name: Spawn 1
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2098412837045869830
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7878579329953153717}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.29, y: 0.247, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6587669844070178251}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7914269197529164604
 GameObject:
@@ -851,8 +944,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 4490525258210052761, guid: 47aa0a7832bfcf14c96d42299483321d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2098412837045869830}
+    - targetCorrespondingSourceObject: {fileID: 4490525258210052761, guid: 47aa0a7832bfcf14c96d42299483321d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7193460270944706071}
+    - targetCorrespondingSourceObject: {fileID: 4490525258210052761, guid: 47aa0a7832bfcf14c96d42299483321d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3649174370335111984}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1439417333780819562, guid: 47aa0a7832bfcf14c96d42299483321d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1571571872369137762}
   m_SourcePrefab: {fileID: 100100000, guid: 47aa0a7832bfcf14c96d42299483321d, type: 3}
 --- !u!4 &6587669844070178251 stripped
 Transform:
@@ -864,6 +969,26 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1439417333780819562, guid: 47aa0a7832bfcf14c96d42299483321d, type: 3}
   m_PrefabInstance: {fileID: 7295152172224517970}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1571571872369137762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8558035902110579000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41c83f136a5dd447bb2b56f1c850a9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fruitPrefab: {fileID: 2512378281311312338, guid: bf6d61d928214e94eb9719dd2b25bcbc, type: 3}
+  fruitSpawnPoints:
+  - {fileID: 2098412837045869830}
+  - {fileID: 7193460270944706071}
+  - {fileID: 3649174370335111984}
+  maxFruitsAtOnce: 3
+  totalFruitToGrow: 10
+  spawnChance: 0.8
 --- !u!1001 &7685427364039359311
 PrefabInstance:
   m_ObjectHideFlags: 0

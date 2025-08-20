@@ -50,5 +50,8 @@ TagManager:
   - name: trees
     uniqueID: 2007029829
     locked: 0
+  - name: Fruit
+    uniqueID: 4270566075
+    locked: 0
   m_RenderingLayers:
   - Default
