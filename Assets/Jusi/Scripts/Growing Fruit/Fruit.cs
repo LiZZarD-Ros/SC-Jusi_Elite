@@ -1,13 +1,12 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Fruit : MonoBehaviour
 {
     [Header("Fruit Growth Settings")]
     public string fruitType;    // "Orange", "Mango", etc.
     public int maxGrowth = 5;   // how many ticks until ripe
-    public float growthScale = 0.2f; // scale per tick
 
-    private int currentGrowth = 0;
+    private float currentGrowth = 0.3f; // start with some growth
     private bool isRipe = false;
 
     [HideInInspector] public FruitGrower parentGrower;
@@ -15,7 +14,10 @@ public class Fruit : MonoBehaviour
     void OnEnable()
     {
         Timing.Instance.OnSecondTick += Grow;
-        transform.localScale = Vector3.zero; // start tiny
+
+        // Apply starting scale based on currentGrowth
+        float progress = Mathf.Clamp01(currentGrowth / maxGrowth);
+        transform.localScale = Vector3.one * progress;
     }
 
     void OnDisable()
@@ -29,7 +31,12 @@ public class Fruit : MonoBehaviour
         if (isRipe) return;
 
         currentGrowth++;
-        transform.localScale += Vector3.one * growthScale;
+
+        // Growth progress between 0 and 1
+        float progress = Mathf.Clamp01(currentGrowth / maxGrowth);
+
+        // Scale smoothly from starting scale → 1
+        transform.localScale = Vector3.one * progress;
 
         if (currentGrowth >= maxGrowth)
         {
@@ -44,6 +51,10 @@ public class Fruit : MonoBehaviour
 
         Debug.Log("Harvested " + fruitType);
         parentGrower.NotifyFruitHarvested();
+
+        // Unsubscribe first to prevent tick loop issues
+        if (Timing.Instance != null)
+            Timing.Instance.OnSecondTick -= Grow;
 
         Destroy(gameObject);
     }
