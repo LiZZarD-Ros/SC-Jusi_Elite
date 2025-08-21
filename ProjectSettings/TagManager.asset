@@ -53,5 +53,8 @@ TagManager:
   - name: Fruit
     uniqueID: 4270566075
     locked: 0
+  - name: VFX
+    uniqueID: 2247309521
+    locked: 0
   m_RenderingLayers:
   - Default

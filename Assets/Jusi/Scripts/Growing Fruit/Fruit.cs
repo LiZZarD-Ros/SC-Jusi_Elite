@@ -10,6 +10,18 @@ public class Fruit : MonoBehaviour
     private bool isRipe = false;
 
     [HideInInspector] public FruitGrower parentGrower;
+    private FruitManager fruitManager;
+
+    // Cached references
+    private ParticleSystem ripeParticles;
+    private Animator animator;
+
+    void Awake()
+    {
+        // Grab attached components if they exist
+        ripeParticles = GetComponentInChildren<ParticleSystem>();
+        animator = GetComponent<Animator>();
+    }
 
     void OnEnable()
     {
@@ -42,6 +54,14 @@ public class Fruit : MonoBehaviour
         {
             isRipe = true;
             Debug.Log(fruitType + " is ripe!");
+
+            // 🔥 Play particle effect
+            if (ripeParticles != null)
+                ripeParticles.Play();
+
+            // 🎬 Play animation (make sure Animator has a "Ripe" trigger or bool)
+            if (animator != null)
+                animator.SetTrigger("Ripe");
         }
     }
 
@@ -50,9 +70,21 @@ public class Fruit : MonoBehaviour
         if (!isRipe) return;
 
         Debug.Log("Harvested " + fruitType);
+
+        // Add to FruitManager
+        if (FruitManager.Instance != null)
+        {
+            switch (fruitType.ToLower())
+            {
+                case "mango": FruitManager.Instance.AddMango(); break;
+                case "orange": FruitManager.Instance.AddOrange(); break;
+                case "banana": FruitManager.Instance.AddBanana(); break;
+                case "pineapple": FruitManager.Instance.AddPineapple(); break;
+            }
+        }
+
         parentGrower.NotifyFruitHarvested();
 
-        // Unsubscribe first to prevent tick loop issues
         if (Timing.Instance != null)
             Timing.Instance.OnSecondTick -= Grow;
 
