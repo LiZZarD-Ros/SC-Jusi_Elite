@@ -13,9 +13,11 @@ public class Juice_Box_Warehouse : MonoBehaviour
     {
         if (JuiceBoxManager.Instance == null) return;
 
-        mangoText.text = JuiceBoxManager.Instance.GetMangoes().ToString();
-        orangeText.text = JuiceBoxManager.Instance.GetOranges().ToString();
-        bananaText.text = JuiceBoxManager.Instance.GetBananas().ToString();
-        pineappleText.text = JuiceBoxManager.Instance.GetPineapples().ToString();
+        mangoText.text = JuiceBoxManager.Instance.GetMangoJuice().ToString();
+        orangeText.text = JuiceBoxManager.Instance.GetOrangeJuice().ToString();
+        bananaText.text = JuiceBoxManager.Instance.GetBananaJuice().ToString();
+        pineappleText.text = JuiceBoxManager.Instance.GetPineappleJuice().ToString();
     }
+
+
 }
