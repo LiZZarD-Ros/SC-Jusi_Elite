@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: ed501d984a00a9a4f94e4b282b0ae331
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2126816209411313320
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_0
+  - first:
+      213: -914111244470817474
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_1
+  - first:
+      213: -8185346268136740578
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_2
+  - first:
+      213: -7566177039360966328
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_3
+  - first:
+      213: 1747894350896133280
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_4
+  - first:
+      213: -2917680558882263348
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_5
+  - first:
+      213: -7013292473260159652
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_6
+  - first:
+      213: 8591159922710115513
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_7
+  - first:
+      213: 7610840784412265308
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_8
+  - first:
+      213: 914325114106952499
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_9
+  - first:
+      213: 4558771919148886133
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_10
+  - first:
+      213: -1686231191491689966
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_11
+  - first:
+      213: -6173980208051196385
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_12
+  - first:
+      213: -5311893038066914266
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_13
+  - first:
+      213: 6273841089896518298
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_14
+  - first:
+      213: -8685566218054759647
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_15
+  - first:
+      213: 935069257614347498
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_16
+  - first:
+      213: 1359868954234032101
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_17
+  - first:
+      213: 1721561333500057315
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_18
+  - first:
+      213: -8407743398744866253
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_19
+  - first:
+      213: 5980360698164571722
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_20
+  - first:
+      213: 6603224105176651408
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_21
+  - first:
+      213: 4399851524985740607
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_22
+  - first:
+      213: 5390388672955459076
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_23
+  - first:
+      213: -3861176826494342660
+    second: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 849
+        width: 297
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0188f218f38d10800000000000000
+      internalID: 2126816209411313320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 841
+        width: 310
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d60249aac6053f0800000000000000
+      internalID: -914111244470817474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 153
+        width: 302
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57825e438e2044f30800000000000000
+      internalID: 4558771919148886133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 152
+        width: 304
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21244f55aad4998e0800000000000000
+      internalID: -1686231191491689966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 975232187ad96a94ebd7a9e83e551f1e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_0: 2126816209411313320
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_1: -914111244470817474
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_10: 4558771919148886133
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_11: -1686231191491689966
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_12: -6173980208051196385
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_13: -5311893038066914266
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_14: 6273841089896518298
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_15: -8685566218054759647
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_16: 935069257614347498
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_17: 1359868954234032101
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_18: 1721561333500057315
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_19: -8407743398744866253
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_2: -8185346268136740578
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_20: 5980360698164571722
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_21: 6603224105176651408
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_22: 4399851524985740607
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_23: 5390388672955459076
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_24: -3861176826494342660
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_3: -7566177039360966328
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_4: 1747894350896133280
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_5: -2917680558882263348
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_6: -7013292473260159652
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_7: 8591159922710115513
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_8: 7610840784412265308
+      20250822_1203_Fruit Juice Icons_remix_01k38kjvvxf4b86k3g1275950e_9: 914325114106952499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
