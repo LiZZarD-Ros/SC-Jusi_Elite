@@ -17,7 +17,7 @@ public class FruitStand : MonoBehaviour
     [SerializeField] private Transform coinSpawnPoint;
     [SerializeField] private Animator standAnimator;
     [SerializeField] private ParticleSystem sellParticles;
-    [Range(0f, 1f)][SerializeField] private float sellChancePerTick = 0.25f; // 25% per tick
+    [Range(0f, 1f)][SerializeField] private float baseSellChancePerTick = 0.25f; // 25% base chance
 
     [Header("Prefabs")]
     [SerializeField] private GameObject goldCoinPrefab;
@@ -31,6 +31,14 @@ public class FruitStand : MonoBehaviour
     // robust event subscription state
     private Timing subscribedTiming;
     private Coroutine subscribeRoutine;
+
+    // reference to building upgrader
+    private UpgradeableBuilding upgradeableBuilding;
+
+    private void Awake()
+    {
+        upgradeableBuilding = GetComponent<UpgradeableBuilding>();
+    }
 
     private void OnEnable()
     {
@@ -164,7 +172,15 @@ public class FruitStand : MonoBehaviour
     {
         if (!isSelling || juiceBoxInStand <= 0) return;
 
-        if (Random.value < sellChancePerTick)
+        // apply upgrade modifier
+        float effectiveChance = baseSellChancePerTick;
+        if (upgradeableBuilding != null)
+        {
+            int level = upgradeableBuilding.GetLevel(); // 1–5
+            effectiveChance *= (1f + (level - 1) * 0.1f);
+        }
+
+        if (Random.value < effectiveChance)
         {
             // success! sold
             juiceBoxInStand--;

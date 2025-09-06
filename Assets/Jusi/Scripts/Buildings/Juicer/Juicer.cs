@@ -30,6 +30,9 @@ public class Juicer : MonoBehaviour
     private const int maxCapacity = 5;
     private bool isJuicing = false;
 
+    private UpgradeableBuilding upgradeableBuilding;
+    private int tickCounter = 0;
+
     // robust event subscription state
     private Timing subscribedTiming;
     private Coroutine subscribeRoutine;
@@ -58,6 +61,7 @@ public class Juicer : MonoBehaviour
 
     private void Start()
     {
+        upgradeableBuilding = GetComponent<UpgradeableBuilding>();
         UpdateFruitDisplay();
         UpdateUI();
     }
@@ -167,10 +171,20 @@ public class Juicer : MonoBehaviour
     private void OnTick()
     {
         if (!isJuicing) return;
+        if (fruitInJuicer <= 0) return;
 
-        if (fruitInJuicer > 0)
+        int level = upgradeableBuilding != null ? upgradeableBuilding.GetLevel() : 1;
+
+        // Convert upgrade level into ticks per consumption
+        // Level 1 = 5 ticks, Level 2 = 4 ticks ... Level 5 = 1 tick
+        int ticksPerConsume = Mathf.Clamp(6 - level, 1, 5);
+
+        tickCounter++;
+
+        if (tickCounter >= ticksPerConsume)
         {
             fruitInJuicer--;
+            tickCounter = 0;
             UpdateUI();
         }
 
