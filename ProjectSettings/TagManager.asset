@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1661095075
+    locked: 0
+  - name: Fields and ground
+    uniqueID: 3888342949
+    locked: 0
+  - name: trees
+    uniqueID: 2007029829
+    locked: 0
+  - name: Fruit
+    uniqueID: 4270566075
+    locked: 0
+  - name: VFX
+    uniqueID: 2247309521
+    locked: 0
+  m_RenderingLayers:
+  - Default

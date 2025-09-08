@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 7fd8d994f3b5ba842ab4b944dd62a150
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3148594724520036473
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_0
+  - first:
+      213: -5393125865912937862
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_1
+  - first:
+      213: 4880210623439724725
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_2
+  - first:
+      213: 8923145267526310874
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_3
+  - first:
+      213: -2023521378556266373
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_4
+  - first:
+      213: 981126131604165334
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_5
+  - first:
+      213: 1577388866870470841
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_6
+  - first:
+      213: -3374980119032083554
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_7
+  - first:
+      213: -4674317412844275498
+    second: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 487
+        height: 685
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787705fa7c1fd44d0800000000000000
+      internalID: -3148594724520036473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1354
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0663f94bdf9b340800000000000000
+      internalID: 4880210623439724725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 848
+        width: 540
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1d1e085165db70800000000000000
+      internalID: 8923145267526310874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1354
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78bebbf6020be3e0800000000000000
+      internalID: -2023521378556266373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1211
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d29e1ab409ad9d00800000000000000
+      internalID: 981126131604165334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 360
+        width: 412
+        height: 464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8687a21d204e510800000000000000
+      internalID: 1577388866870470841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 108
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b46119679a921d0800000000000000
+      internalID: -3374980119032083554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 554
+        height: 828
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d87eff141d712fb0800000000000000
+      internalID: -4674317412844275498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_9
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 108
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82735d50b9b746145af39ee84cb4fb97
+      internalID: -240901394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff5df8b35e2f934459268d261007cde4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_0: -3148594724520036473
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_1: -5393125865912937862
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_2: 4880210623439724725
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_3: 8923145267526310874
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_4: -2023521378556266373
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_5: 981126131604165334
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_6: 1577388866870470841
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_7: -3374980119032083554
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_8: -4674317412844275498
+      20250818_1344_Pineapple Bushes Scene_remix_01k2yfsaamez1b092xwsvw58na_9: -240901394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
