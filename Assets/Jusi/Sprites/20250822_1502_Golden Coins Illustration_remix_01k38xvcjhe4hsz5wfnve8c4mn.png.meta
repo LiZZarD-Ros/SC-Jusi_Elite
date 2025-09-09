@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: c3cd6da30754d874c9b00fcfa23847ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 461264030905358182
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_0
+  - first:
+      213: -7575726685601705664
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_1
+  - first:
+      213: -8420588991179120703
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_2
+  - first:
+      213: -972901762577976165
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_3
+  - first:
+      213: -7996153031165016198
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_4
+  - first:
+      213: 3068064749582025750
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_5
+  - first:
+      213: 3463344805557491410
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_6
+  - first:
+      213: -7419497367636221711
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_7
+  - first:
+      213: 2339443428803246415
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_8
+  - first:
+      213: -4058647091078682127
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_9
+  - first:
+      213: 7847339877915891703
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_10
+  - first:
+      213: 6242680421102921383
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_11
+  - first:
+      213: -3175045791263739604
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_12
+  - first:
+      213: -670559677980180744
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_13
+  - first:
+      213: -4100826794226696526
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_14
+  - first:
+      213: -8024608912012946971
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_15
+  - first:
+      213: 855939047230243100
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_16
+  - first:
+      213: -956362108137940688
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_17
+  - first:
+      213: 4424974958249831128
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_18
+  - first:
+      213: -6676857900040965177
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_19
+  - first:
+      213: 7623265596482388337
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_20
+  - first:
+      213: 1001588418559939578
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_21
+  - first:
+      213: -2170152698593009351
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_22
+  - first:
+      213: 1058049954330233607
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_23
+  - first:
+      213: -8515547163914706849
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_24
+  - first:
+      213: -4048494798876126378
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_25
+  - first:
+      213: -3082273879630201011
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_26
+  - first:
+      213: 6830843620898694264
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_27
+  - first:
+      213: 7559573838101121700
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_28
+  - first:
+      213: 9022761379686749056
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_29
+  - first:
+      213: -1648165589904069282
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_30
+  - first:
+      213: 3652917561275517971
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_31
+  - first:
+      213: 8217708046490916132
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_32
+  - first:
+      213: 6377918987300391138
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_33
+  - first:
+      213: -2949702646150183917
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_34
+  - first:
+      213: -3315397454028761115
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_35
+  - first:
+      213: 635872016176167543
+    second: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1094
+        width: 255
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66757c5313db66600800000000000000
+      internalID: 461264030905358182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 779
+        width: 302
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140cba62a4f39a20800000000000000
+      internalID: 3068064749582025750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 807
+        width: 315
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6d2f540c5401030800000000000000
+      internalID: 3463344805557491410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1085
+        width: 240
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e81e4476a80990800000000000000
+      internalID: -7419497367636221711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1090
+        width: 245
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4970f1576f577020800000000000000
+      internalID: 2339443428803246415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 797
+        width: 244
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9259b69f9cca7c0800000000000000
+      internalID: -4058647091078682127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 335
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f71feeba0a57ec60800000000000000
+      internalID: 7847339877915891703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 489
+        width: 314
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21302acca8ffe3d0800000000000000
+      internalID: -3175045791263739604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 499
+        width: 236
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1d802f5bcd2a090800000000000000
+      internalID: -8024608912012946971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 223
+        width: 225
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653d8f52e6bd0d7c0800000000000000
+      internalID: -4048494798876126378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6f226c9fd5680548af4721efc62a815
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_0: 461264030905358182
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_1: -7575726685601705664
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_10: 7847339877915891703
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_11: 6242680421102921383
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_12: -3175045791263739604
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_13: -670559677980180744
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_14: -4100826794226696526
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_15: -8024608912012946971
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_16: 855939047230243100
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_17: -956362108137940688
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_18: 4424974958249831128
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_19: -6676857900040965177
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_2: -8420588991179120703
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_20: 7623265596482388337
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_21: 1001588418559939578
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_22: -2170152698593009351
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_23: 1058049954330233607
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_24: -8515547163914706849
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_25: -4048494798876126378
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_26: -3082273879630201011
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_27: 6830843620898694264
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_28: 7559573838101121700
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_29: 9022761379686749056
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_3: -972901762577976165
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_30: -1648165589904069282
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_31: 3652917561275517971
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_32: 8217708046490916132
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_33: 6377918987300391138
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_34: -2949702646150183917
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_35: -3315397454028761115
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_36: 635872016176167543
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_4: -7996153031165016198
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_5: 3068064749582025750
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_6: 3463344805557491410
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_7: -7419497367636221711
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_8: 2339443428803246415
+      20250822_1502_Golden Coins Illustration_remix_01k38xvcjhe4hsz5wfnve8c4mn_9: -4058647091078682127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
