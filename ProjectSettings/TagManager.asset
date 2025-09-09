@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Cloud
   layers:
   - Default
   - TransparentFX
@@ -11,7 +12,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - VFX
   - 
   - 
   - 
@@ -52,6 +53,9 @@ TagManager:
     locked: 0
   - name: Fruit
     uniqueID: 4270566075
+    locked: 0
+  - name: Water
+    uniqueID: 1813773803
     locked: 0
   - name: VFX
     uniqueID: 2247309521
