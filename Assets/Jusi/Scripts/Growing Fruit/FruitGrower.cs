@@ -48,6 +48,10 @@ public class FruitGrower : MonoBehaviour
         {
             if (spot.childCount == 0) // free spot
             {
+                // 🔊 Play tree growing sound (10% chance)
+                if (AudioManager.Instance != null && Random.Range(0f, 1f) < 0.1f)
+                    AudioManager.Instance.PlayTreeGrowingSound();
+
                 GameObject fruit = Instantiate(fruitPrefab, spot.position, Quaternion.identity, spot);
                 Fruit fruitScript = fruit.GetComponent<Fruit>();
                 if (fruitScript != null)

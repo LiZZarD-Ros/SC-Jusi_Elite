@@ -55,11 +55,11 @@ public class Fruit : MonoBehaviour
             isRipe = true;
             Debug.Log(fruitType + " is ripe!");
 
-            // 🔥 Play particle effect
+            //  Play particle effect
             if (ripeParticles != null)
                 ripeParticles.Play();
 
-            // 🎬 Play animation (make sure Animator has a "Ripe" trigger or bool)
+            //  Play animation (make sure Animator has a "Ripe" trigger or bool)
             if (animator != null)
                 animator.SetTrigger("Ripe");
         }
@@ -71,7 +71,14 @@ public class Fruit : MonoBehaviour
 
         Debug.Log("Harvested " + fruitType);
 
-        // Add to FruitManager
+        // 🔊 Add harvest audio here
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.PlayFruitHarvestSound();
+            AudioManager.Instance.PlayTreeHarvestSound();
+        }
+
+        // 🍊 Add to FruitManager
         if (FruitManager.Instance != null)
         {
             switch (fruitType.ToLower())

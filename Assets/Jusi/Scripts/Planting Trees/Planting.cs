@@ -82,6 +82,11 @@ public class Planting : MonoBehaviour
 
     private void PlantTree(string treeName)
     {
+        // 🔊 Play planting sound
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayTreePlantSound();
+
+        // 🌱 Activate the correct tree
         if (treeName == "Orange") orangeTree.SetActive(true);
         if (treeName == "Mango") mangoTree.SetActive(true);
         if (treeName == "Banana") bananaTree.SetActive(true);

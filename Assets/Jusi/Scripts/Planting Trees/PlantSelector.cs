@@ -35,6 +35,10 @@ public class PlantSelector : MonoBehaviour
 
     void SelectTree(string treeName, Button button)
     {
+        // 🔊 Play button click sound
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+
         // Prevent selecting a tree with 0 count
         if (!CanPlant(treeName)) return;
 
