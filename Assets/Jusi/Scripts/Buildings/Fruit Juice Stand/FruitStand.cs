@@ -87,6 +87,11 @@ public class FruitStand : MonoBehaviour
     public void NextJuice()
     {
         if (isSelling) return;
+        
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+            
         selectedJuiceIndex = (selectedJuiceIndex + 1) % juices.Length;
         UpdateJuiceDisplay();
     }
@@ -94,6 +99,11 @@ public class FruitStand : MonoBehaviour
     public void PreviousJuice()
     {
         if (isSelling) return;
+        
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+            
         selectedJuiceIndex = (selectedJuiceIndex - 1 + juices.Length) % juices.Length;
         UpdateJuiceDisplay();
     }
@@ -113,6 +123,10 @@ public class FruitStand : MonoBehaviour
     public void AddJuiceBox()
     {
         if (isSelling || juiceBoxInStand >= maxCapacity) return;
+
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
 
         switch (juices[selectedJuiceIndex].ToLower())
         {
@@ -141,6 +155,10 @@ public class FruitStand : MonoBehaviour
     {
         if (isSelling || juiceBoxInStand <= 0) return;
 
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+
         juiceBoxInStand--;
 
         switch (juices[selectedJuiceIndex].ToLower())
@@ -159,6 +177,10 @@ public class FruitStand : MonoBehaviour
     {
         if (isSelling || juiceBoxInStand <= 0) return;
 
+        // ADD SELLING START AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+
         isSelling = true;
 
         if (standAnimator != null)
@@ -176,7 +198,7 @@ public class FruitStand : MonoBehaviour
         float effectiveChance = baseSellChancePerTick;
         if (upgradeableBuilding != null)
         {
-            int level = upgradeableBuilding.GetLevel(); // 1–5
+            int level = upgradeableBuilding.GetLevel(); // 1â€“5
             effectiveChance *= (1f + (level - 1) * 0.1f);
         }
 
@@ -191,6 +213,10 @@ public class FruitStand : MonoBehaviour
 
     private void FinishSelling()
     {
+        // ADD SALE COMPLETE AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayStallSaleSound();
+
         isSelling = false;
 
         if (standAnimator != null)
