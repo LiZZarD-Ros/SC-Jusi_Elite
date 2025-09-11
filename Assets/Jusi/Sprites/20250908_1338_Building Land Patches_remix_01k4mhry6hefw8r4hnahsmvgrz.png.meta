@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 7facf21e5b4399c438793aea7ae818aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5822640004842720033
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_0
+  - first:
+      213: -6032067730580885786
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_1
+  - first:
+      213: 3981251289180309694
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_2
+  - first:
+      213: -1543619394621379985
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_3
+  - first:
+      213: 5920341166186653927
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_4
+  - first:
+      213: 4333806431467503417
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_5
+  - first:
+      213: 6952057720897122321
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_6
+  - first:
+      213: -2118164644868931100
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_7
+  - first:
+      213: 2177160278408237128
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_8
+  - first:
+      213: -8936110628552525448
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_9
+  - first:
+      213: 4964564903531811570
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_10
+  - first:
+      213: 4995974590348785690
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_11
+  - first:
+      213: -1589245930465188536
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_12
+  - first:
+      213: -813096526205136643
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_13
+  - first:
+      213: -3754812990130538036
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_14
+  - first:
+      213: -6045214881565938712
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_15
+  - first:
+      213: 6850667804588023472
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_16
+  - first:
+      213: 5936139003656445880
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_17
+  - first:
+      213: -620581690780635415
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_18
+  - first:
+      213: 8938871128592603822
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_19
+  - first:
+      213: -8403004184862925994
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_20
+  - first:
+      213: -6801731123806978575
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_21
+  - first:
+      213: 3135371760091587322
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_22
+  - first:
+      213: 2738761010131958619
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_23
+  - first:
+      213: 3214019938953203149
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_24
+  - first:
+      213: 1491335005763280736
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_25
+  - first:
+      213: -5305509991524202713
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_26
+  - first:
+      213: -1690197067022869668
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_27
+  - first:
+      213: 5908760471833048450
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_28
+  - first:
+      213: -2863393046070759981
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_29
+  - first:
+      213: 5882099303378008412
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_30
+  - first:
+      213: -2277618108106446322
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_31
+  - first:
+      213: -1023488904669540136
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_32
+  - first:
+      213: -9146781962460742500
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_33
+  - first:
+      213: 8763004475027347699
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_34
+  - first:
+      213: -2003626709146536898
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_35
+  - first:
+      213: 8724837604222367692
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_36
+  - first:
+      213: 4435893685425629300
+    second: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 830
+        width: 341
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bfa9dc0a8020620800000000000000
+      internalID: 2738761010131958619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_27
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 879
+        width: 245
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd1bbf8b63b88e0800000000000000
+      internalID: -1690197067022869668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_30
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 581
+        width: 297
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593b67d62a61a150800000000000000
+      internalID: 5882099303378008412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 545
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d05e9d8346dbc1f0800000000000000
+      internalID: -1023488904669540136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 337
+        width: 285
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb391544a101180800000000000000
+      internalID: -9146781962460742500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6dabd7ac5277b224a8fa1ad83ed66994
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_0: -5822640004842720033
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_1: -6032067730580885786
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_10: 4964564903531811570
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_11: 4995974590348785690
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_12: -1589245930465188536
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_13: -813096526205136643
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_14: -3754812990130538036
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_15: -6045214881565938712
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_16: 6850667804588023472
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_17: 5936139003656445880
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_18: -620581690780635415
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_19: 8938871128592603822
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_2: 3981251289180309694
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_20: -8403004184862925994
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_21: -6801731123806978575
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_22: 3135371760091587322
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_23: 2738761010131958619
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_24: 3214019938953203149
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_25: 1491335005763280736
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_26: -5305509991524202713
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_27: -1690197067022869668
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_28: 5908760471833048450
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_29: -2863393046070759981
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_3: -1543619394621379985
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_30: 5882099303378008412
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_31: -2277618108106446322
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_32: -1023488904669540136
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_33: -9146781962460742500
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_34: 8763004475027347699
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_35: -2003626709146536898
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_36: 8724837604222367692
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_37: 4435893685425629300
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_4: 5920341166186653927
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_5: 4333806431467503417
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_6: 6952057720897122321
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_7: -2118164644868931100
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_8: 2177160278408237128
+      20250908_1338_Building Land Patches_remix_01k4mhry6hefw8r4hnahsmvgrz_9: -8936110628552525448
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

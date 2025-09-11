@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 91da0d1a4063d35478f4ceab4c9c8c3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6848898822951810439
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_0
+  - first:
+      213: -5125184800893361360
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_1
+  - first:
+      213: -4225725878473185079
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_2
+  - first:
+      213: -4264557649631625162
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_3
+  - first:
+      213: -5194680528228323550
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_4
+  - first:
+      213: -1234351915221368104
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_5
+  - first:
+      213: 6704941612950246418
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_6
+  - first:
+      213: -6409013528216367263
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_7
+  - first:
+      213: 7221134035309969419
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_8
+  - first:
+      213: 8443776504013639336
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_9
+  - first:
+      213: 7129759986021485952
+    second: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arrow Right
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 638
+        width: 261
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78532a4413d2c0f50800000000000000
+      internalID: 6848898822951810439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1054
+        width: 249
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82e6fc3b43b55c0800000000000000
+      internalID: -4225725878473185079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1012
+        width: 232
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fef490599c8e7b0800000000000000
+      internalID: -5194680528228323550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1030
+        width: 227
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d248651973bedee0800000000000000
+      internalID: -1234351915221368104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 651
+        width: 258
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8df9072c9e07a0800000000000000
+      internalID: -6409013528216367263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow left
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 258
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00422a552f963460800000000000000
+      internalID: 7221134035309969419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 259
+        width: 250
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dca94aeeef1f260800000000000000
+      internalID: 7129759986021485952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 868e7b6897a96024caf83ff98c5f4dde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_1: -5125184800893361360
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_10: 7129759986021485952
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_2: -4225725878473185079
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_3: -4264557649631625162
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_4: -5194680528228323550
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_5: -1234351915221368104
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_6: 6704941612950246418
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_7: -6409013528216367263
+      20250822_2017_Wooden Sign Variations_remix_01k39fvkt5f9bvp18dwjeydfw2_9: 8443776504013639336
+      Arrow Right: 6848898822951810439
+      Arrow left: 7221134035309969419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
