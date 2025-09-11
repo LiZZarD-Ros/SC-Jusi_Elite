@@ -214,6 +214,12 @@ public class AudioManager : MonoBehaviour
         }
     }
     
+    public void StopSFX()
+    {
+        if (sfxSource != null && sfxSource.isPlaying)
+            sfxSource.Stop();
+    }
+    
     public void SetMasterVolume(float volume)
     {
         masterVolume = Mathf.Clamp01(volume);

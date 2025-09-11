@@ -86,6 +86,11 @@ public class Juicer : MonoBehaviour
     public void NextFruit()
     {
         if (isJuicing) return;
+        
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+            
         selectedFruitIndex = (selectedFruitIndex + 1) % fruits.Length;
         UpdateFruitDisplay();
     }
@@ -93,6 +98,11 @@ public class Juicer : MonoBehaviour
     public void PreviousFruit()
     {
         if (isJuicing) return;
+        
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+            
         selectedFruitIndex = (selectedFruitIndex - 1 + fruits.Length) % fruits.Length;
         UpdateFruitDisplay();
     }
@@ -112,6 +122,10 @@ public class Juicer : MonoBehaviour
     public void AddFruit()
     {
         if (isJuicing || fruitInJuicer >= maxCapacity) return;
+
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
 
         switch (fruits[selectedFruitIndex].ToLower())
         {
@@ -140,6 +154,10 @@ public class Juicer : MonoBehaviour
     {
         if (isJuicing || fruitInJuicer <= 0) return;
 
+        // ADD UI AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayButtonClickSound();
+
         fruitInJuicer--;
 
         switch (fruits[selectedFruitIndex].ToLower())
@@ -158,6 +176,10 @@ public class Juicer : MonoBehaviour
     {
         // NOTE: currently requires a full load. If you want to juice any amount, change to (fruitInJuicer <= 0)
         if (isJuicing || fruitInJuicer < maxCapacity) return;
+
+        // ADD JUICING START AUDIO:
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayJuicingStartSound();
 
         isJuicing = true;
 
@@ -196,6 +218,13 @@ public class Juicer : MonoBehaviour
 
     private void FinishJuicing()
     {
+        // STOP ongoing juicing audio and play completion sound:
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.StopSFX(); // Stop any ongoing SFX sounds
+            AudioManager.Instance.PlayJuicingCompleteSound();
+        }
+
         isJuicing = false;
 
         if (juicerAnimator != null)
