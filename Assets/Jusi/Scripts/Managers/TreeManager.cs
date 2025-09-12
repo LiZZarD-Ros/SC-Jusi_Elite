@@ -2,11 +2,22 @@ using UnityEngine;
 
 public class TreeManager : MonoBehaviour
 {
+    public static TreeManager Instance;
+
     // Tree counts
     [SerializeField] private int mangoTrees;
     [SerializeField] private int orangeTrees;
     [SerializeField] private int palmTrees;
     [SerializeField] private int pineappleTrees;
+
+    private void Awake()
+    {
+        if (Instance == null)
+            Instance = this;
+        else
+            Destroy(gameObject);
+    }
+
 
     // Getters
     public int GetMangoTrees() { return mangoTrees; }
