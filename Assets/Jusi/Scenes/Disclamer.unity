@@ -177,13 +177,14 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Dsclaimer:\r\nThe game you're about to play is a very rough prototype
-    of an idle game. My focus has been on building the mechanics and systems to refine
+    of an idle game. Built by 3 part-time jnr developers in less than 3 weeks during
+    our spare time. The focus has been on building the mechanics and systems to refine
     the core gameplay feel\u2014not on visuals, polish, and especially not on balance,
-    things move a lot faster then they would in the final project\n\n\rI have placed
+    things move a lot faster then they would in a final project\n\n\rI have placed
     signes around the world map to help guide what it is you need to do\r\n\r\nKeep
     in mind this is a showcase prototype, and many things will be unbalanced or unfinished.
-    I am aware that it misses a tutorial, VFX,  sound, and has bugs... its not a
-    complete game. Feedback on the mechanics is welcome!"
+    I am aware that it misses a indepth tutorial, \"juice\", and has many... many
+    bugs... its not a complete game. Feedback on the mechanics is welcome!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
