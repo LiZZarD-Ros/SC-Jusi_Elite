@@ -1,16 +1,19 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Collider2D))]
 public class SelectField : MonoBehaviour
 {
-     [Header("Field Settings")]
+    [Header("Field Settings")]
     public string fieldName = "Field 1";
     public int baseYield = 5;
 
+    [Header("FX")]
     public ParticleSystem rainPrefab; // assign a rain prefab (Play On Awake = false)
     public SpriteRenderer spriteRenderer; // assign your field sprite here
 
     private bool rainBonusActive = false;
     private Color originalColor;
+    private Color blackHighlight = new Color(0f, 0f, 0f, 0.9f); // black with 90% opacity
 
     void Awake()
     {
@@ -26,7 +29,8 @@ public class SelectField : MonoBehaviour
         // Only highlight if a cloud is selected
         if (SelectableCloud.Selected != null && spriteRenderer != null)
         {
-            spriteRenderer.color = new Color(originalColor.r, originalColor.g, originalColor.b, 0.6f); // fade
+            // Blend original color with black highlight
+            spriteRenderer.color = Color.Lerp(originalColor, blackHighlight, 0.5f);
         }
     }
 
@@ -52,7 +56,7 @@ public class SelectField : MonoBehaviour
         // Spawn rain particle above the field
         if (rainPrefab != null)
         {
-            Vector3 spawnPos = transform.position + Vector3.up * 2.5f; // adjust height to look good
+            Vector3 spawnPos = transform.position + Vector3.up * 1.5f; // adjust height to look good
             ParticleSystem rain = Instantiate(rainPrefab, spawnPos, Quaternion.identity);
             rain.Play();
 
